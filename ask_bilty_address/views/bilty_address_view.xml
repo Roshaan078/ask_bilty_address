@@ -1,0 +1,14 @@
+<odoo>
+    <data>
+        <record id="bilty_view_form" model="ir.ui.view">
+            <field name="name">res.partner.view.form.inherit.parent</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="base.view_partner_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='website']" position="after">
+                    <field name="bilty_address" invisible="0"/>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>
