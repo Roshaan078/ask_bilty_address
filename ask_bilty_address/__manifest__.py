@@ -4,18 +4,18 @@
     'description': """This module adds bilty address field on delivery order""",
     'author': "Asksol",
     'website': "https://www.asksol.pk",
-    'category': 'sale',
+    'category': 'Sales',
     'version': '18.0.1.0',
     
-    'depends': ['base','sale','stock','sale_management'],
+    'depends': ['stock','sale_management'],
     'data': [
         'report/delivery_slip_report.xml',
         'views/bilty_address_view.xml',
     ],
     'license': 'LGPL-3',
     'installable': True,
-    'application': True,
+    'application': False,
     'auto_install': False,
-    'images': ['static/description/icon.jpg'],
+    'images': ['static/description/icon.png'],
 }
 
