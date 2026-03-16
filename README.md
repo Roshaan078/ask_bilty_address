@@ -1,13 +1,11 @@
 # Bilty Address Report ![Odoo 18](https://img.shields.io/badge/Odoo-18-brightgreen) ![Community](https://img.shields.io/badge/Edition-Community-blue)
 
-![ASKSOL](ask_bilty_address/static/description/icon.png)  
+![ASKSOL](ask_bilty_address/static/description/assets/screenshots/ASKSOL_logo.png)  
 **by [ASKSOL](https://www.asksol.pk)**
 
 ## 🚚 Complete Bilty Address Management — Inside Odoo
 
 Customer forms, print reports, delivery slips. **Everywhere you need it.**
-
-[![Partner Form Bilty Field](ask_bilty_address/static/description/assets/screenshots/1.png)](ask_bilty_address/static/description/assets/screenshots/1.png)
 
 ### Key Highlights
 
@@ -20,18 +18,15 @@ Customer forms, print reports, delivery slips. **Everywhere you need it.**
 ## 📸 Screenshots
 
 ### 1. Partner Form - Bilty Field
-![Partner Bilty Field](ask_bilty_address/static/description/assets/screenshots/1.png)  
+![Partner Bilty Field](ask_bilty_address/static/description/assets/screenshots/2.png)  
 **Multi-line Bilty Address field** on every customer/partner form after Website field.
 
 ### 2. Delivery Order Print Action
-![Delivery Print](ask_bilty_address/static/description/assets/screenshots/2.png)  
+![Delivery Print](ask_bilty_address/static/description/assets/screenshots/3.png)  
 **Print → Logistics Delivery Slip** from outgoing shipment.
 
-### 3. Dedicated Report Menu
-![Report Menu](ask_bilty_address/static/description/assets/screenshots/3.png)  
-**Logistics Delivery Slip** menu with enhanced layout.
 
-### 4. Professional PDF Output
+### 3. Professional PDF Output
 ![PDF Report](ask_bilty_address/static/description/assets/screenshots/4.png)  
 **Gate pass ready** with bilty address, totals, signatures.
 
@@ -59,7 +54,7 @@ Customer forms, print reports, delivery slips. **Everywhere you need it.**
 
 1. **Clone/Download** this repository to your Odoo addons path:
    ```
-   git clone https://github.com/YOUR-REPO/ask_bilty_address.git /path/to/odoo/addons/
+   git clone https://github.com/Roshaan078/ask_bilty_address.git /path/to/odoo/addons/
    ```
 
 2. **Restart Odoo** server (`sudo service odoo restart` or via UI)
@@ -141,5 +136,5 @@ Prominent bilty address, total quantity, checker/packer/signature boxes.
 
 ---
 
-⭐ **Made with ❤️ by ASKSOL** | [Odoo Gold Partner](https://www.asksol.pk)
+⭐ **Made with ❤️ by ASKSOL** 
 
