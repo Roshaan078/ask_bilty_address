@@ -5,7 +5,7 @@
     'author': "Asksol",
     'website': "https://www.asksol.pk",
     'category': 'Sales',
-    'version': '18.0.1.0',
+    'version': '19.0.1.0',
     
     'depends': ['stock','sale_management'],
     'data': [
